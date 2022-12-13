@@ -4,6 +4,7 @@ theme = "hello-friend-ng"
 paginate     = 10
 canonifyurls = true
 hideHUGOSupport = false
+enableRobotsTXT = true
 
 [author]
   name = "0xKNRD"
